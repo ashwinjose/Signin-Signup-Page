@@ -55,7 +55,7 @@ a {
     background: #fff;
     display: flex;
     flex-direction: column;
-    padding:  0 50px;
+    padding:  0 0px;
     height: 100%;
     justify-content: center;
     align-items: center;
@@ -63,7 +63,7 @@ a {
 }
 
 .social-container {
-    margin: 20px 0;
+    margin: 10px 0;
 }
 
 .social-container a {
