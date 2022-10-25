@@ -1,3 +1,3 @@
-# Signin-Signup_Page
+# Signin/Signup Page
 Animated Signin/Signup Page using HTML, CSS and JavaScript.
  https://ashwinjose.github.io/Signin-Signup-Page/
